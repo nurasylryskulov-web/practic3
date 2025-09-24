@@ -1,2 +1,1 @@
-"# Git Practice" 
-"## ?згерту" 
+"# Conflict Test" 
